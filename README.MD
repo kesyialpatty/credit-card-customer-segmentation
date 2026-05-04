@@ -3,10 +3,6 @@
 # Credit Card Customer Segmentation
 ### K-Means Clustering + PCA | Unsupervised Machine Learning
 
-![Python](https://img.shields.io/badge/Python-3.9-blue?logo=python)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-1.x-orange?logo=scikit-learn)
-![Status](https://img.shields.io/badge/Status-Complete-brightgreen)
-
 ---
 
 ## Overview
